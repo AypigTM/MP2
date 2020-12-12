@@ -1,0 +1,42 @@
+body{
+    
+    background-image: url(img/backgroung.jpeg);
+}
+.container{
+    max-width: 800px;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    color: #048b9a;
+    font-size: xx-large;
+}
+h2{
+    color: #048b9a; 
+    font-size: large;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+h3{
+    color: #048b9a;
+    font-size: medium;
+}
+a{
+    text-align: center;
+    color: black ;
+    font-size: large;
+}
+p{
+    text-align: justify;
+    font-size: small;
+    font-weight: 100    ;
+}
+#fondbleu{
+    background-color: bisque;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#img{
+    margin-left: 95px;
+}
