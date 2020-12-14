@@ -43,3 +43,13 @@ p{
 #list{
     padding-bottom: 4px;
 }
+video{
+    width: 800px;
+    margin-left: -15px;
+    border-color:  bisque;
+}   
+#video{
+    display: block;
+    padding: auto;
+    
+}
